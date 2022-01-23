@@ -1,4 +1,4 @@
 # MTCEN
-This repo contains the code for our ICASSP 2022 paper:
+If you use our code in your work, please cite us.
 
-A MULTI-TASK LEARNING FRAMEWORK FOR CHINESE MEDICAL PROCEDURE ENTITY NORMALIZATION. Xuhui Sui, Kehui Song, Baohang Zhou, Ying Zhang, Xiaojie Yuan
+*Xuhui Sui, Kehui Song, Baohang Zhou, Ying Zhang, Xiaojie Yuan. 2022. A Multi-task Learning Framework for Chinese Medical Procedure Entity Normalization. 2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
